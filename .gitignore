@@ -1,0 +1,9 @@
+/node_modules
+
+.env
+
+# ignores all .md files
+*.md
+
+# dont ignore the README.md file
+!README.md
